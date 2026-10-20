@@ -8,13 +8,13 @@ O banco disponibilizado para análise continha respostas e opiniões, enquanto o
 
 ## Solução entregue
 
-- Integração com **SQL no Azure e API de convites**, conforme contexto fornecido pelo autor.
+- Integrei **SQL no Azure e API de convites** para reunir respostas e convites.
 - Normalização de ações e agrupamento das versões para análise comparável.
 - Visão executiva de NPS, CES, CSAT, distribuição de notas, evolução e comparação entre pesquisas.
 - Seleção dinâmica de indicadores e períodos, filtros e detalhamento de comentários.
-- **Power Apps para disponibilização dos dados no Microsoft Teams**, conforme relato do autor.
+- Utilizei **Power Apps para disponibilizar os dados no Microsoft Teams**.
 
-O autor relata duração de atualização inferior a 15 minutos. Esse tempo não foi medido nesta preparação e não indica, por si só, frequência de atualização ou operação em tempo real.
+Na operação do projeto, observei atualizações com duração inferior a 15 minutos. Esse é um tempo observado no meu ambiente, sem medição independente nesta publicação; não representa frequência de atualização ou garantia de tempo real.
 
 ## Arquitetura funcional
 
