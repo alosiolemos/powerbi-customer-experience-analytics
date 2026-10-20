@@ -1,6 +1,6 @@
 # Normalização das ações
 
-Segundo o autor, ações possuíam versões e variações de nomenclatura que precisavam ser agrupadas. O relatório referencia os campos **BD_Filtros[ACAO]**, **BD_Filtros[ACAO_CORRIGIDA]** e **BD_Interações[ACAO]**, coerentes com esse contexto. As expressões responsáveis pelo tratamento não estão no material recebido.
+Identifiquei ações com versões e variações de nomenclatura que precisavam ser agrupadas. O relatório referencia os campos **BD_Filtros[ACAO]**, **BD_Filtros[ACAO_CORRIGIDA]** e **BD_Interações[ACAO]**, coerentes com esse contexto. As expressões responsáveis pelo tratamento não estão incluídas nesta exportação pública.
 
 ## Exemplo didático
 
