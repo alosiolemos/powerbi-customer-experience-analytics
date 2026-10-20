@@ -31,9 +31,8 @@ O diagrama representa o contexto funcional descrito. O mecanismo técnico entre 
 
 ## Screenshots
 
-![Espaço para a visão executiva](assets/screenshots/preview.svg)
+![Espaço para a visão executiva](assets/screenshots/Mockup%20-%20UP.png)
 
-Adicione uma captura preparada para publicação em `assets/screenshots/painel-cx.png` e substitua o caminho da imagem acima. As capturas originais não foram publicadas: incluem marca e indicadores do cliente.
 
 ## Explore o case
 
