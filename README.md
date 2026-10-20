@@ -30,7 +30,7 @@ flowchart LR
 O diagrama representa o contexto funcional descrito. O mecanismo técnico entre Power Apps, Power BI e Teams não está nos arquivos recebidos.
 
 ## Screenshots
-
+MockUP
 ![Espaço para a visão executiva](assets/screenshots/Mockup%20-%20UP.png)
 
 
